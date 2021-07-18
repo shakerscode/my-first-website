@@ -1,0 +1,85 @@
+ body{
+    font-family: 'Hind Siliguri', sans-serif;
+     margin: 0px;
+ }
+ 
+ h1{
+   font-size: 40px;
+ }
+ h2{
+   font-size: 30px;
+ }
+ p{
+   color: dimgray;
+   
+ }
+ 
+.name-heiglite{
+   color: royalblue;
+ }
+.width{
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 2%;
+  float: left;
+   
+}
+.width p{
+  padding-bottom: 10px;
+}
+.width img{
+  width: 100%;
+  padding-top: 10px;
+}
+.width a{
+  text-decoration: none;
+  color: white;
+  background-color: royalblue;
+   
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.width a:hover{
+  background-color: rgba(255, 38, 0, 0.733);
+  color: black;
+
+}
+.top{
+  background-image: url("imge/top-banner.png");
+  background-repeat: no-repeat;
+}
+section{
+  height: 500px;
+  padding: 30px;
+}
+#image{
+  padding-right: 30px;
+}
+.middle{
+  background-image: url("imge/dream-bg.png");
+  background-repeat: no-repeat;
+background-position: right;
+}
+.width-1{
+  width: 28%;
+  height: 290px;
+  float: left;
+  margin : 1%;
+  padding-left: 35px; 
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 10px 10px 40px gray;
+  border-left: 4px solid rgba(255, 68, 0, 0.897);
+}
+.width-1 h3{
+  font-size: 15px;
+}
+.width-1 p{
+  text-align:  left;
+   
+}
+.second-bg{
+  background-image: url("imge/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+}
