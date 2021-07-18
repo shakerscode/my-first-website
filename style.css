@@ -35,15 +35,14 @@
   text-decoration: none;
   color: white;
   background-color: royalblue;
-   
   padding: 10px 20px;
   border-radius: 5px;
 }
 .width a:hover{
-  background-color: rgba(255, 38, 0, 0.733);
+  background-color: orangered;
   color: black;
-
 }
+
 .top{
   background-image: url("imge/top-banner.png");
   background-repeat: no-repeat;
@@ -62,7 +61,7 @@ background-position: right;
 }
 .width-1{
   width: 28%;
-  height: 290px;
+  height: 320px;
   float: left;
   margin : 1%;
   padding-left: 35px; 
@@ -71,17 +70,11 @@ background-position: right;
   box-shadow: 10px 10px 40px gray;
   border-left: 4px solid rgba(255, 68, 0, 0.897);
 }
-.width-1:hover{
-  background-color: orangered;
-  color: white;
-}
+ 
 .width-1 h3{
   font-size: 15px;
 }
-.width-1 p{
-  text-align:  left;
-   
-}
+ 
 .second-bg{
   background-image: url("imge/exp-bg.png");
   background-repeat: no-repeat;
